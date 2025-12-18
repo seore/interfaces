@@ -1,0 +1,13 @@
+# Datasets
+emotion_dashboard/data/*.csv
+emotion_dashboard/data/*
+!emotion_dashboard/data/README.md
+
+# Models
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+torch
+torchvision
+onnx
+onnxruntime
+streamlit
+matplotlib
+scikit-learn
