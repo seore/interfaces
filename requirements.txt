@@ -1,5 +1,4 @@
 opencv-python
-mediapipe
 numpy
 torch
 torchvision
@@ -8,3 +7,5 @@ onnxruntime
 streamlit
 matplotlib
 scikit-learn
+onnxscript
+
