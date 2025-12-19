@@ -8,4 +8,4 @@ streamlit
 matplotlib
 scikit-learn
 onnxscript
-
+pyautogui

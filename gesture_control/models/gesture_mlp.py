@@ -8,7 +8,7 @@ class GestureMLP(nn.Module):
             nn.Linear(in_dim, 256),
             nn.BatchNorm1d(256),
             nn.ReLU(inplace=True),
-            nn.Dropout(0.3),
+            nn.Dropout(0.30),
             nn.Linear(256, 128),
             nn.ReLU(inplace=True),
             nn.Dropout(0.25),

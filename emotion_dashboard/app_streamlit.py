@@ -39,7 +39,7 @@ def expand_box(x, y, w, h, img_w, img_h, scale=1.15):
 
 def main():
     st.set_page_config(page_title="Emotion Dashboard", layout="wide")
-    st.title("Face Emotion Recognition Dashboard (OpenCV detector)")
+    st.title("Face Emotion Recognition Dashboard")
 
     col1, col2 = st.columns([2, 1])
 
